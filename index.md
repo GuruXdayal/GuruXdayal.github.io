@@ -1,15 +1,15 @@
----
-title: ""
-description: ""
-layout: default
----
+   ---
+   title: ""
+   description: ""
+   layout: default
+   ---
 
-<!-- Link custom CSS -->
-<link rel="stylesheet" href="/assets/css/style.css">
+   <!-- Link custom CSS -->
+   <link rel="stylesheet" href="/assets/css/style.css">
 
-<!-- Hero -->
-<p align="left" style="margin-top:10px;">
-  <img src="/assets/images/banners/hero.png" alt="SOC Home Lab Diagram" style="width:16%; max-width:800px; border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);">
+   <!-- Hero -->
+   <p align="left" style="margin-top:10px;">
+    <img src="/assets/images/banners/hero.png" alt="SOC Home Lab Diagram" style="width:16%; max-width:800px; border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);">
 </p>
 
 <!-- Social bar -->
