@@ -34,70 +34,71 @@ layout: default
   </ul>
 </nav>
 
----
+ ---
 
-## 👋 Hi — I’m **Guru Dayal**
-**SOC Analyst | Security Monitoring & Incident Response | Threat Hunter | Cybersecurity Enthusiast**  
-I build hands-on cybersecurity labs focused on detection engineering, simulating real attacks, automation, and threat hunting across Windows & Linux environments. My projects demonstrate SIEM-driven detection, MITRE ATT&CK mapping, and practical automation for SOC workflows.
+ ## 👋 Hi — I’m **Guru Dayal**
+ **SOC Analyst | Security Monitoring & Incident Response | Threat Hunter | Cybersecurity Enthusiast**  
+ I build hands-on cybersecurity labs focused on detection engineering, simulating real attacks, automation, and threat hunting across Windows & Linux environments.
+ My projects demonstrate SIEM-driven detection, MITRE ATT&CK mapping, and practical automation for SOC workflows.
 
----
+ ---
 
-## 🧑‍💻 **About Me**
-I’m a cybersecurity practitioner with a strong interest in **blue-team security**, specializing in **SIEM operations, threat hunting, incident triage, detection engineering, and automation**.  
+ ## 🧑‍💻 **About Me**
+ I’m a cybersecurity practitioner with a strong interest in **blue-team security**, specializing in **SIEM operations, threat hunting, incident triage, detection      engineering, and automation**.  
 
-My background in **Electronics Manufacturing** and **Healthcare RCM** has shaped me into someone who is:
-- Extremely **detail-oriented**
-- Strong in **analytical thinking**
-- Comfortable handling **sensitive information (HIPAA)**
-- Skilled at **investigation, troubleshooting, and structured problem-solving**
-- Capable of adapting across *multiple industries* — which makes my approach to cybersecurity unique.
+ My background in **Electronics Manufacturing** and **Healthcare RCM** has shaped me into someone who is:
+ - Extremely **detail-oriented**
+ - Strong in **analytical thinking**
+ - Comfortable handling **sensitive information (HIPAA)**
+ - Skilled at **investigation, troubleshooting, and structured problem-solving**
+ - Capable of adapting across *multiple industries* — which makes my approach to cybersecurity unique.
 
-I’m actively seeking roles such as:
-- **SOC Analyst L1**
-- **Security Analyst**
-- **Cybersecurity Operations / Blue Team roles**
+ I’m actively seeking roles such as:
+ - **SOC Analyst L1**
+ - **Security Analyst**
+ - **Cybersecurity Operations / Blue Team roles**
 
-I have built **3 full SOC-ready projects** to demonstrate job-ready capability.
+ I have built **3 full SOC-ready projects** to demonstrate job-ready capability.
 
----
+ ---
   
-## 🏆 **Certifications** {#certifications}
-- **Certified Ethical Hacker (CEH)** — EC-Council (May 2025–June 2026) 
-- **Cisco — Introduction to Cybersecurity**  
-- **TryHackMe — Cybersecurity 101**  
-- **TryHackMe — SOC Level 1**
+ ## 🏆 **Certifications** {#certifications}
+ - **Certified Ethical Hacker (CEH)** — EC-Council (May 2025–June 2026) 
+ - **Cisco — Introduction to Cybersecurity**  
+ - **TryHackMe — Cybersecurity 101**  
+ - **TryHackMe — SOC Level 1**
 
----
+ ---
 
-## 🔍 Portfolio Purpose
-A blue-team–focused portfolio highlighting my work in detection engineering, threat hunting, automation, and SOC operations — aimed at showcasing job-ready skills for SOC L1 and Security Analyst roles.
+ ## 🔍 Portfolio Purpose
+ A blue-team–focused portfolio highlighting my work in detection engineering, threat hunting, automation, and SOC operations — aimed at showcasing job-ready skills    for SOC L1 and Security Analyst roles.
 
-Each project includes:  
-✔ Attack Simulation  
-✔ MITRE ATT&CK Mapping  
-✔ Telemetry Analysis  
-✔ Hunting Queries  
-✔ Detection Validation  
-✔ Analyst Notes  
-✔ Screenshots  
-✔ Full Documentation  
+ Each project includes:  
+ ✔ Attack Simulation  
+ ✔ MITRE ATT&CK Mapping  
+ ✔ Telemetry Analysis  
+ ✔ Hunting Queries  
+ ✔ Detection Validation  
+ ✔ Analyst Notes  
+ ✔ Screenshots  
+ ✔ Full Documentation  
 
----
+ ---
   
-## 🧩 Key Projects (featured) {#projects}
-Each project includes attack simulation steps, telemetry evidence, hunting queries, detection tuning, and final analysis.
+ ## 🧩 Key Projects (featured) {#projects}
+ Each project includes attack simulation steps, telemetry evidence, hunting queries, detection tuning, and final analysis.
 
-### 🔹 **1. SOC Home Lab — Wazuh + Sysmon + Suricata**
-**Tagline:** *End-to-end SOC lab simulating four real attacks for detection engineering & threat hunting.*
+ ### 🔹 **1. SOC Home Lab — Wazuh + Sysmon + Suricata**
+ **Tagline:** *End-to-end SOC lab simulating four real attacks for detection engineering & threat hunting.*
 
-- Simulated Malicious file execution, Nmap scan detection, File Integrity Monitoring, SSH Brute-Force  
-- Built detection rules in Wazuh & analyzed Sysmon telemetry  
-- Performed ATT&CK-aligned threat hunts
+ - Simulated Malicious file execution, Nmap scan detection, File Integrity Monitoring, SSH Brute-Force  
+ - Built detection rules in Wazuh & analyzed Sysmon telemetry  
+ - Performed ATT&CK-aligned threat hunts
 
-📂 **Repo:** https://github.com/GuruXdayal/SOC-Home-Lab
+ 📂 **Repo:** https://github.com/GuruXdayal/SOC-Home-Lab
 
-### 🔹 **2. Automated AlertFlow — n8n + Wazuh SOAR Pipeline**
-**Tagline:** *Automated malware hash enrichment, file quarantine, and SOC reporting.*
+ ### 🔹 **2. Automated AlertFlow — n8n + Wazuh SOAR Pipeline** 
+ *Tagline:** *Automated malware hash enrichment, file quarantine, and SOC reporting.*
 
 - Built a Python → n8n → VirusTotal automation pipeline  
 - Quarantined malicious files and generated HTML SOC reports  
